@@ -5,5 +5,4 @@ begin
   writeln('Tecle <ENTER> para encerrar');
   readln;
 
-
 end.
